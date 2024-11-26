@@ -65,7 +65,7 @@
     ]
   },
   "dependencies": {
-    "parent-module": "2.0.0"
+    "parent-module": "3.0.0"
   },
   "devDependencies": {
     "@commitlint/cli": "17.2.0",
